@@ -1,0 +1,6 @@
+CustomerID,Age,Gender,Country,PurchaseAmount,PurchaseDate
+C001,23,Male,USA,200,15-01-2023
+C002,30,Female,UK,150,20-02-2023
+C003,25,Male,Canada,300,05-03-2023
+C004,28,Female,Australia,250,10-04-2023
+C005,22,Male,India,100,15-05-2023
