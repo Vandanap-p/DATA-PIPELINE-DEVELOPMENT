@@ -57,3 +57,6 @@ Error Reduction: Automation minimizes the risk of human error during data prepro
 Conclusion
 Creating an ETL pipeline using Python, Pandas, and Scikit-learn is a powerful approach to streamline data preprocessing, transformation, and loading. The provided script automates the entire process, making it efficient, reproducible, and scalable. By leveraging these tools, data scientists and analysts can focus more on data analysis and model building, rather than spending time on manual data preparation. This task demonstrates the importance of a well-designed ETL pipeline in the data science workflow and highlights the benefits of automation in handling data efficiently.
 
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/3cbd36d3-468a-4a5f-9841-eee00b75ae1c)
